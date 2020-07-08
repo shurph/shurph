@@ -3,8 +3,16 @@
 <!--
 **shurph/shurph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-->
 
+I'm an Engineering Manager working in Minsk, Belarus.
+
+I'm also...
+- 🐍 PyCon Belarus Program Committee member, https://by.pycon.org/
+- 🐍 Minsk Python Meetup Organizer, [https://minskpython.github.io/](https://minskpython.github.io/#meetup-keepers)
+- 🌀 Passionate Software Engineer
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
